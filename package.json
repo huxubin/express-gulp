@@ -17,6 +17,7 @@
     "shortid": "^2.2.6"
   },
   "devDependencies": {
+    "ejs": "^2.5.1",
     "express-ejs-layouts": "^1.1.0",
     "gulp": "~3.8.10",
     "gulp-less": "~3.0.1",
