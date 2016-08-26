@@ -1,0 +1,9 @@
+/jsapi_ticket.json
+/access_token.json
+node_modules/
+.sass-cache
+.idea/
+.vscode/
+public/components/
+*.map
+#.log
