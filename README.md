@@ -1,5 +1,5 @@
 # Express-gulp
-build a simple html5 seed project by express frame and gulp.
+Build flexible mobile seed project by Express and gulp.
 
 **移动端设备适配方案：** <br/>
 flexible：其实就是responsive的低端形态和基础，从2014年开始，手机淘宝全面推行flexible设计<br/>
@@ -11,7 +11,7 @@ Install and Run
 npm install
 
 **Run:** <br/>
-execute gulp
+gulp
 
 Start
 --------
