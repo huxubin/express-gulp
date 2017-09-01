@@ -1,4 +1,4 @@
-# express-gulp
+# Express-gulp
 build a simple html5 seed project by express frame and gulp.
 
 **移动端设备适配方案：** <br/>
@@ -11,8 +11,8 @@ Install and Run
 npm install
 
 **Run:** <br/>
-execute gulp task 'default'
+execute gulp
 
 Start
 --------
-http://localhost:3000/actives/bigbang
+http://localhost:3000/actives/index
