@@ -13,9 +13,7 @@ var gulp = require('gulp'),
     cleanup = require('gulp-cleanup-dest');
 
 // 监视 文件改动时执行
-gulp.watch('./public/index/css/*.less',['less'],function(event){
-
-});
+gulp.watch('./public/index/css/*.less',['less']);
 
 gulp.task('clean',function(){
     gulp.src('./public/css/*.less')
