@@ -1,9 +1,9 @@
 {
-  "name": "timeface-html5",
+  "name": "express-gulp",
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node app.js"
+    "start": "gulp"
   },
   "dependencies": {
     "body-parser": "~1.12.0",
